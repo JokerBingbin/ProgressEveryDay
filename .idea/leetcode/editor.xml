@@ -3,6 +3,15 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[162]寻找峰值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/doc/content/[162]寻找峰值.md" />
+              <option name="path" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[162]寻找峰值.java" />
+              <option name="questionId" value="162" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[4]寻找两个正序数组的中位数.java">
           <value>
             <LeetcodeEditor>
@@ -18,6 +27,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/doc/content/[524]通过删除字母匹配到字典里最长单词.md" />
               <option name="path" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[524]通过删除字母匹配到字典里最长单词.java" />
               <option name="questionId" value="524" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[72]编辑距离.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/doc/content/[72]编辑距离.md" />
+              <option name="path" value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[72]编辑距离.java" />
+              <option name="questionId" value="72" />
             </LeetcodeEditor>
           </value>
         </entry>
