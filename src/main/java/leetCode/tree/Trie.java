@@ -20,6 +20,7 @@ import java.util.HashMap;
  */
 public class Trie {
 
+    // 用哈希表存储子树
     HashMap<Character, Trie> children;
     boolean isEnd;
 
